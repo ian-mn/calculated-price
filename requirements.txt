@@ -1,0 +1,4 @@
+pandas==1.4.0
+pywin32==303
+openpyxl==3.0.9
+pyodbc==4.0.32
